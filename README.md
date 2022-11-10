@@ -9,7 +9,7 @@ KomsKart is a 3D Kart racing game made with Unity game engine.
 - C#
 - Mathematica
 - Shader Lab
-- HlSL
+- HLSL
  
 ## Getting Started
 
